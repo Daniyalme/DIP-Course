@@ -46,8 +46,19 @@ pip install numpy opencv-python matplotlib
 
 ## Example Output  
 
-![Reconstructed RGB Sample](path-to-image.png)  
-*Figure: RGB reconstruction using Prokudin-Gorskii's method.*
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+  <img src="./outputs/emir_Red.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/emir_Green.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/emir_Blue.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/emir_colored.png" alt="Reconstructed RGB Image" width="23%"/> 
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+  <img src="./outputs/cathedral_Red.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/cathedral_Green.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/cathedral_Blue.png" alt="Grayscale Channels" width="24%" style="margin-right: 10px;"/>
+  <img src="./outputs/cathedral_colored.png" alt="Reconstructed RGB Image" width="23%"/> 
+</div>
+Figure: Grayscale inputs (left) and reconstructed RGB output (right).
 
 ---
 
