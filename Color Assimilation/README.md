@@ -38,8 +38,12 @@ The primary objective of this project is to:
 
 ## Sample Output
 
-![Color Assimilation Grid Illusion Sample](image.png)  
-*Figure 1. Color Assimilation Grid Illusion Sample.*
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+  <img src="./inputs/AmirKabir-gray.jpg" alt="Grayscale Image" width="32%" style="margin-right: 10px;"/>
+  <img src="./outputs/AmirKabir_colorized_circle.png" alt="Color Illusion Image" width="32%" style="margin-right: 10px;"/>
+  <img src="./inputs/AmirKabir.jpg" alt="Real RGB Image" width="32%"/> 
+</div>
+*Figure 1. Grayscale (left), Color Assimilation Circle Illusion Sample (center), Real RGB Image (right).*
 
 This image demonstrates how black and white imagery can appear colorful through the application of color assimilation techniques.
 
